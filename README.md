@@ -48,5 +48,5 @@ It demonstrates how core concepts can be applied to build a real-world parking m
 
 ---
 
-## 🙋‍♂️ Author
-**Muhammad Siddique**
+##  Author
+**Minahil rani**
